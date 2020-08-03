@@ -62,13 +62,16 @@ html, body,
 
 .movie .movie__title,
 .movie .movie__year {
+    display: flex;
     margin: 0;
+    padding: 0;
     font-weight: 300;
 }
 
 .movie .movie__title {
     margin-bottom: 5px;
     font-size: 24px;
+    padding: 0;
     color: #2c2c2c;
 }
 
