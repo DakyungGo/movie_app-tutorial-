@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie_app-tutorial-app/static/css/main.094516cd.chunk.css",
+    "main.js": "/movie_app-tutorial-app/static/js/main.869f95b5.chunk.js",
+    "main.js.map": "/movie_app-tutorial-app/static/js/main.869f95b5.chunk.js.map",
+    "runtime-main.js": "/movie_app-tutorial-app/static/js/runtime-main.b0f5543e.js",
+    "runtime-main.js.map": "/movie_app-tutorial-app/static/js/runtime-main.b0f5543e.js.map",
+    "static/js/2.670a5eaa.chunk.js": "/movie_app-tutorial-app/static/js/2.670a5eaa.chunk.js",
+    "static/js/2.670a5eaa.chunk.js.map": "/movie_app-tutorial-app/static/js/2.670a5eaa.chunk.js.map",
+    "index.html": "/movie_app-tutorial-app/index.html",
+    "precache-manifest.22ccb5285f4d7e20b5a2431bc5dc6dd0.js": "/movie_app-tutorial-app/precache-manifest.22ccb5285f4d7e20b5a2431bc5dc6dd0.js",
+    "service-worker.js": "/movie_app-tutorial-app/service-worker.js",
+    "static/css/main.094516cd.chunk.css.map": "/movie_app-tutorial-app/static/css/main.094516cd.chunk.css.map",
+    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/movie_app-tutorial-app/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0f5543e.js",
+    "static/js/2.670a5eaa.chunk.js",
+    "static/css/main.094516cd.chunk.css",
+    "static/js/main.869f95b5.chunk.js"
+  ]
+}
